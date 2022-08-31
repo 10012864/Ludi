@@ -28,5 +28,8 @@
     "webpack": "^5.66.0",
     "ws": "^8.4.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@architect/sandbox": "^5.3.3"
+  }
 }
